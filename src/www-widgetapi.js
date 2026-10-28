@@ -1289,3 +1289,5 @@ F("YT.Player",Pr);Gr.prototype.destroy=Gr.prototype.destroy;Gr.prototype.setSize
 vr.push(function(a){var b=a;b||(b=document);a=ib(b.getElementsByTagName("yt:player"));var c=b||document;if(c.querySelectorAll&&c.querySelector)b=c.querySelectorAll(".yt-player");else{var d;c=document;b=b||c;if(b.querySelectorAll&&b.querySelector)b=b.querySelectorAll(".yt-player");else if(b.getElementsByClassName){var e=b.getElementsByClassName("yt-player");b=e}else{e=b.getElementsByTagName("*");var f={};for(c=d=0;b=e[c];c++){var g=b.className,h;if(h="function"==typeof g.split)h=0<=cb(g.split(/\s+/),
 "yt-player");h&&(f[d++]=b)}f.length=d;b=f}}b=ib(b);db(hb(a,b),$r)});
 "undefined"!=typeof YTConfig&&YTConfig.parsetags&&"onload"!=YTConfig.parsetags||xr();var as=D.onYTReady;as&&as();var bs=D.onYouTubeIframeAPIReady;bs&&bs();var cs=D.onYouTubePlayerAPIReady;cs&&cs();}).call(this);
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=www-widgetapi.js

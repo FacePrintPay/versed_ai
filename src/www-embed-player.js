@@ -1889,3 +1889,5 @@ e.fileName=b,e.lineNumber=c,isNaN(d)?delete e.columnNumber:e.columnNumber=d),f?Y
 je=$s;window.addEventListener("unhandledrejection",function(a){$s(a.reason)});
 fb(P("ERRORS")||[],function(a){Ys.apply(null,a)});
 gl("ERRORS",[]);R("embeds_web_enable_scheduler_to_player_binary")&&mn();}).call(this);
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=www-embed-player.js

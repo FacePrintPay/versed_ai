@@ -699,3 +699,5 @@ g.k.hS=function(){this.Gc.hS()};
 g.k.Ck=function(){return!1};
 g.k.getOptions=function(){return["casting","receivers","currentReceiver","quickCast"]};
 g.k.isLoggedIn=function(){var a,b;return void 0!==(null==(a=g.xB("PLAYER_CONFIG"))?void 0:null==(b=a.args)?void 0:b.authuser)?!0:!(!g.xB("SESSION_INDEX")&&!g.xB("LOGGED_IN"))};g.DV("remote",yCb);})(_yt_player);
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=remote.js

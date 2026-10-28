@@ -26,7 +26,7 @@ cat > "$BUS_FILE" <<EOT
   "shared_storage": {
     "http": "https://10.75.117.112:8000/",
     "ftp": "ftp://10.75.117.112:2222/",
-    "path": "/storage/emulated/0/",
+    "path": "/storage//0/",
     "username": "$USERNAME",
     "password": "[ENCRYPTED: request from Keyholder]"
   },
@@ -47,3 +47,5 @@ cat > "$JOURNAL_FILE" <<EOT
 EOT
 
 echo "[\$(date)] Rotation complete for $ROTATION_DATE" >> "$LOG_DIR/rotation.log"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=key_rotate.sh

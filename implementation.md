@@ -170,3 +170,5 @@ provided as a debugging aid (but see
 [work]: https://pkg.go.dev/golang.org/x/tools/gopls@master/internal/work
 [x/tools]: https://github.com/golang/tools@master
 [xrefs]: https://pkg.go.dev/golang.org/x/tools/gopls@master/internal/cache/xrefs
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=implementation.md

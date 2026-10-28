@@ -136,3 +136,5 @@ def organize_files(category: str, limit=200):
         except Exception as e:
             print(f"[{now()}] move_fail: {p} :: {e}")
     append_report(f"organize_{category.lower()}.json", {"category":category,"moved":moved,"time":now()})
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=_common.py

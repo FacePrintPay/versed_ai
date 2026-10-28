@@ -9,3 +9,5 @@
     { "src": "/(.*)", "dest": "//data/data/com.termux/files/home/fp-debug-20260321-163133/VeRseD_Ai/public/index.html" }
   ]
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=vercel.json

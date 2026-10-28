@@ -245,3 +245,5 @@ g.k.onAdStart=function(){d6(this,"EMBEDS_AD_EVENT_TYPE_AD_STARTED")};
 g.k.onAdComplete=function(){d6(this,"EMBEDS_AD_EVENT_TYPE_AD_COMPLETED")};
 g.k.onAdSkip=function(){d6(this,"EMBEDS_AD_EVENT_TYPE_AD_SKIPPED")};
 g.k.onAdStateChange=function(a){2===a&&d6(this,"EMBEDS_AD_EVENT_TYPE_AD_PAUSED")};g.DV("embed",Wpb);})(_yt_player);
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=embed.js
